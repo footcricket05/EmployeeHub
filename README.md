@@ -2,7 +2,7 @@
 
 ![Employee Management System](https://user-images.githubusercontent.com/93007427/148734593-af3aa66d-08b2-4874-9637-46ec472fe5d9.jpg)
 
-The Employee Management System is a web-based application built with the MERN stack (MongoDB, Express.js, React, Node.js). It serves as a comprehensive solution for managing employee information, both personal and professional.
+EmployeeHub is a web-based application built with the MERN stack (MongoDB, Express.js, React, Node.js). It serves as a comprehensive solution for managing employee information, both personal and professional.
 
 ## Key Features
 
@@ -18,7 +18,7 @@ The Employee Management System is a web-based application built with the MERN st
 
 ## Technologies Used
 
-The Employee Management System is built using the following technologies:
+EmployeeHub is built using the following technologies:
 
 1. **React:** The frontend is developed using React, ensuring a responsive and interactive user interface.
 
@@ -34,12 +34,12 @@ Follow these steps to set up the application locally:
 
 1. Clone the repository:
    ```
-   git clone https://github.com/footcricket05/Employee-Management-System-WebDev.git
+   git clone https://github.com/footcricket05/EmployeeHub.git
    ```
 
 2. Navigate to the project directory:
    ```
-   cd Employee-Management-System-WebDev
+   cd EmployeeHub
    ```
 
 3. Install dependencies for both the frontend and backend:
@@ -72,7 +72,7 @@ Follow these steps to set up the application locally:
 
 ## Usage
 
-Access the Employee Management System by opening your web browser and navigating to http://localhost:3000. Here, you can manage employee information efficiently and effortlessly.
+Access the EmployeeHub by opening your web browser and navigating to http://localhost:3000. Here, you can manage employee information efficiently and effortlessly.
 
 ## Contributing
 
@@ -82,4 +82,3 @@ Contributions to this project are highly encouraged! To contribute, fork the rep
 
 This project is open-source and licensed under the `MIT License`. For detailed information, please refer to the LICENSE file in the repository.
 
-Feel free to further enhance this README and the project to make it even more appealing to potential contributors and users. Good luck with your Employee Management System!
