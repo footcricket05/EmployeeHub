@@ -46,13 +46,13 @@ Follow these steps to set up the application locally:
 
    Frontend:
    ```
-   cd frontend
+   cd Frontend
    npm install
    ```
 
    Backend:
    ```
-   cd backend
+   cd Backend
    npm install
    ```
 
@@ -60,13 +60,13 @@ Follow these steps to set up the application locally:
 
    Frontend:
    ```
-   cd frontend
+   cd Frontend
    npm start
    ```
 
    Backend:
    ```
-   cd backend
+   cd Backend
    npm start
    ```
 
