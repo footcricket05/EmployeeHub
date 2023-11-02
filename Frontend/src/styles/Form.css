@@ -1,0 +1,52 @@
+.me-2 {
+    color: white;
+    display: inline-block;
+    font-size: 15px;
+    font-weight: 600;
+    margin: 20px 10px;
+    width: 120px;
+    padding: 10px 0;
+    border-radius: 10px;
+    transition: 0.2s linear;
+}
+
+.Heading {
+    padding-top: 15px;
+    padding-bottom: 50px;
+    text-align: center;
+}
+h2{
+    font-family: Sans-serif;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: bold;
+    color: blue;
+    text-align: center;
+    }
+    table{
+    font-family: verdana;
+    color:white;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: bold;
+    background: rgb(71, 71, 71);
+    /* border-collapse: collapse; */
+    border: 4px solid #000000;
+    /* border-style: none; */
+    }
+    table.inner{
+    border: 10px
+    }
+    input[type=text], input[type=email], input[type=number]{
+    width: 50%;
+    padding: 6px 12px;
+    margin: 5px 0;
+    box-sizing: border-box;
+    }
+    input[type=submit], input[type=reset]{
+    width: 15%;
+    padding: 8px 12px;
+    margin: 5px 0;
+    box-sizing: border-box;
+    
+    }

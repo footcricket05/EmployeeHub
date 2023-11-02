@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: #212529;
+  color: white;
+}
+
+#footerr_main {
+  position: absolute;
+  width: 100%;
+  /* bottom: 0; */
+  left: 0;
+  right: 0;
+}
+
+@import "./Footerr.css";

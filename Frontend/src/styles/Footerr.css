@@ -1,0 +1,14 @@
+#footerr-bg {
+  background-color: #212529;
+}
+
+#footerr_main {
+  /* max-height: 25vh; */
+  color: white;
+  font-size: small;
+}
+
+.list-unstyled > a {
+  text-decoration: none;
+  color: inherit;
+}
